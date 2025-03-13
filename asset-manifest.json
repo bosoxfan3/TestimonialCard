@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TestimonialCard/static/css/main.eb52f20b.css",
+    "main.js": "/TestimonialCard/static/js/main.6479067e.js",
+    "index.html": "/TestimonialCard/index.html",
+    "main.eb52f20b.css.map": "/TestimonialCard/static/css/main.eb52f20b.css.map",
+    "main.6479067e.js.map": "/TestimonialCard/static/js/main.6479067e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb52f20b.css",
+    "static/js/main.6479067e.js"
+  ]
+}
