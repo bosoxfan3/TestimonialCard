@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TestimonialCard/static/css/main.57a14056.css",
-    "main.js": "/TestimonialCard/static/js/main.b53f0605.js",
+    "main.css": "/TestimonialCard/static/css/main.8c6986a8.css",
+    "main.js": "/TestimonialCard/static/js/main.fc884957.js",
     "index.html": "/TestimonialCard/index.html",
-    "main.57a14056.css.map": "/TestimonialCard/static/css/main.57a14056.css.map",
-    "main.b53f0605.js.map": "/TestimonialCard/static/js/main.b53f0605.js.map"
+    "main.8c6986a8.css.map": "/TestimonialCard/static/css/main.8c6986a8.css.map",
+    "main.fc884957.js.map": "/TestimonialCard/static/js/main.fc884957.js.map"
   },
   "entrypoints": [
-    "static/css/main.57a14056.css",
-    "static/js/main.b53f0605.js"
+    "static/css/main.8c6986a8.css",
+    "static/js/main.fc884957.js"
   ]
 }
